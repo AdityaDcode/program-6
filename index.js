@@ -1,1 +1,1 @@
-console.log("Program 6 automated build pipeline running...");
+console.log("Program 6 is running");
